@@ -1,6 +1,8 @@
 ### Hi there I am Abenbyy👋
 
 ## I am:
+- 📚 a Subject Coordinator at Academic SLC
+- 🧐 a Laboratory Assistant at Software Laboratory Center
 - 💡 Proficient in Web and Mobile Technologies
 - 🌱 Currently learning flutter
 
@@ -29,6 +31,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=336791)
+![SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-000000?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927)
 
 #### DevOps
 ![Apache](https://img.shields.io/badge/-Apache-000000?style=flat&logo=apache&logoColor=D22128)
