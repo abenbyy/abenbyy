@@ -43,7 +43,7 @@
 #### Mobile Application
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart&logoColor=0175C2)
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter=02569B)
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=02569B)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift)
 
