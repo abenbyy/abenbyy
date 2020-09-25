@@ -35,7 +35,7 @@
 
 #### DevOps
 ![Apache](https://img.shields.io/badge/-Apache-000000?style=flat&logo=apache&logoColor=D22128)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=181717)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
