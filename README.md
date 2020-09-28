@@ -39,11 +39,13 @@
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![Nginx](https://img.shields.io/badge/-NginX-222222?style=flat&logo=nginx&logoColor=269539)
 
 #### 📱 Mobile Application
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart&logoColor=0175C2)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=02569B)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=007396)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift)
 
@@ -52,7 +54,6 @@
 ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c%20sharp)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=r)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
 <br>
