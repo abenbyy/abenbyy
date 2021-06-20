@@ -4,7 +4,7 @@
 - 📚 a Subject Coordinator at Academic SLC
 - 🧐 a Laboratory Assistant at Software Laboratory Center
 - 💡 Proficient in Web and Mobile Technologies
-- 🌱 Currently learning flutter
+- 🌱 Currently learning re-learning Go
 
 <br>
 
@@ -16,15 +16,22 @@
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 
 #### 🔨 Web Framewoks & Technologies:
-![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=DD0031)
-![Go](https://img.shields.io/badge/-Go-222222?style=flat&logo=go&logoColor=00ADD8)
-![GraphQl](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&logoColor=E10098)
-![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=FF2D20)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=61DAFB)
-![ReactiveX](https://img.shields.io/badge/-ReactiveX-222222?style=flat&logo=reactivex&logoColor=B7178C)
-![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=sass)
+![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=DD0031)
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=FF2D20)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-000000?style=flat&logo=codeigniter&logoColor=EF4223)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jquery&logoColor=0769AD)
+![ReactiveX](https://img.shields.io/badge/-ReactiveX-000000?style=flat&logo=reactivex&logoColor=B7178C)
+![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go&logoColor=00ADD8)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![GraphQl](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&logoColor=E10098)
+![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
+
+#### 🎨 UI Toolkit & Extensions
+![SASS/SCSS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=sass)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=7952B3)
+![Material Design](https://img.shields.io/badge/-Material%20Design-000000?style=flat&logo=material%20design&logoColor=#757575)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=tailwind%20css&logoColor=38B2AC)
 
 #### 💽 Database
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
@@ -36,11 +43,11 @@
 #### 💻 DevOps
 ![Apache](https://img.shields.io/badge/-Apache-000000?style=flat&logo=apache&logoColor=D22128)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=ffffff)
-![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat&logo=heroku&logoColor=430098)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Nginx](https://img.shields.io/badge/-Nginx-222222?style=flat&logo=nginx&logoColor=269539)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=ffffff)
+![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&logoColor=430098)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx&logoColor=269539)
 
 #### 📱 Mobile Application
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
@@ -48,13 +55,12 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=02569B)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=007396)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
-![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift)
 
 #### 🔌 Others
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c%20sharp)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![R](https://img.shields.io/badge/-R-000000?style=flat&logo=r)
+![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c%20sharp&logoColor=239120)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=00599C)
+![R](https://img.shields.io/badge/-R-000000?style=flat&logo=r&logoColor=276DC3)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
 <br>
