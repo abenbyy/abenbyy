@@ -17,6 +17,7 @@
 
 #### 🔨 Web Framewoks & Technologies:
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=61DAFB)
+![Next.JS](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=000000)
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=DD0031)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=FF2D20)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-000000?style=flat&logo=codeigniter&logoColor=EF4223)
@@ -41,8 +42,6 @@
 ![SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-000000?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927)
 
 #### 💻 DevOps
-![Apache](https://img.shields.io/badge/-Apache-000000?style=flat&logo=apache&logoColor=D22128)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=ffffff)
 ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&logoColor=430098)
