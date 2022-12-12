@@ -1,10 +1,9 @@
 ### Hi there I am Abenbyy👋
 
 ## I am:
-- 📚 a Subject Coordinator at Academic SLC
-- 🧐 a Laboratory Assistant at Software Laboratory Center
+- 🛠 a Frontend Engineer with 2 years experience
 - 💡 Proficient in Web and Mobile Technologies
-- 🌱 Currently learning re-learning Go
+- 🌱 Currently learning React Native and Vue
 
 <br>
 
