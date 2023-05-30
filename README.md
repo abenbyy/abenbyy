@@ -1,9 +1,9 @@
 ### Hi there I am Abenbyy👋
 
 ## I am:
-- 🛠 a Frontend Engineer with 2 years experience
+- 🛠 a Frontend Engineer with 3+ years experience
 - 💡 Proficient in Web and Mobile Technologies
-- 🌱 Currently learning React Native and Vue
+- 🌱 Currently learning React Native
 
 <br>
 
@@ -17,13 +17,9 @@
 #### 🔨 Web Framewoks & Technologies:
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=61DAFB)
 ![Next.JS](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=000000)
-![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=DD0031)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=FF2D20)
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-000000?style=flat&logo=codeigniter&logoColor=EF4223)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jquery&logoColor=0769AD)
-![ReactiveX](https://img.shields.io/badge/-ReactiveX-000000?style=flat&logo=reactivex&logoColor=B7178C)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go&logoColor=00ADD8)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![GraphQl](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&logoColor=E10098)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
 
@@ -35,7 +31,6 @@
 
 #### 💽 Database
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=336791)
 ![SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-000000?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927)
@@ -43,9 +38,6 @@
 #### 💻 DevOps
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=ffffff)
-![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&logoColor=430098)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx&logoColor=269539)
 
 #### 📱 Mobile Application
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
@@ -56,9 +48,6 @@
 
 #### 🔌 Others
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c%20sharp&logoColor=239120)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=00599C)
-![R](https://img.shields.io/badge/-R-000000?style=flat&logo=r&logoColor=276DC3)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
 <br>
