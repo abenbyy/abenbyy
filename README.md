@@ -29,6 +29,14 @@
 ![Material Design](https://img.shields.io/badge/-Material%20Design-000000?style=flat&logo=material%20design&logoColor=#757575)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=tailwind%20css&logoColor=38B2AC)
 
+#### 📱 Mobile Application
+![React Native](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
+![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart&logoColor=0175C2)
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=02569B)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=007396)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
+
 #### 💽 Database
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
@@ -39,13 +47,6 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=ffffff)
 
-#### 📱 Mobile Application
-![React Native](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
-![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart&logoColor=0175C2)
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=02569B)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=007396)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
 
 #### 🔌 Others
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
