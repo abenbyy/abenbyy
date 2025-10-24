@@ -30,7 +30,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=tailwind%20css&logoColor=38B2AC)
 
 #### 📱 Mobile Application
-![React Native](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-000000?style=flat&logo=react&logoColor=61DAFB)
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart&logoColor=0175C2)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=02569B)
